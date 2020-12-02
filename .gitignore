@@ -1,2 +1,16 @@
-*.class
+bin/
+project/target/
+target/
+build/
+.bsp/
+.idea/
 *.log
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.history
+.scala_dependencies
+.cache
+.cache-main
+*.class
